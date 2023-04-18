@@ -7,6 +7,6 @@ I hold a Bachelor's degree in Social Work Sciences from the University of Hasan 
 
 ## Things that I like
 
-Reading 
-Traveling
+Reading <br>
+Traveling <br>
 Cycling
